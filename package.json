@@ -1,0 +1,15 @@
+{
+  "name": "agilealm_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maisha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
